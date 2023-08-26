@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goostrack_front/static/css/main.ab155b5b.css",
-    "main.js": "/goostrack_front/static/js/main.369f52d6.js",
+    "main.js": "/goostrack_front/static/js/main.f556d60d.js",
     "static/media/description-image-1.svg": "/goostrack_front/static/media/description-image-1.25ec21049a3bd2a58747a8395054e722.svg",
     "static/media/description-image-3.svg": "/goostrack_front/static/media/description-image-3.1be5edeb0b684a5fe548675669e4bc68.svg",
     "static/media/description-image-2.svg": "/goostrack_front/static/media/description-image-2.d2bc033d2f3ad1b05b80f00def8ff85d.svg",
@@ -10,24 +10,24 @@
     "static/media/desktop_signupPage@2x.png": "/goostrack_front/static/media/desktop_signupPage@2x.35ba0fb08b79a7ed2283.png",
     "static/media/desktop_loginPage.png": "/goostrack_front/static/media/desktop_loginPage.c22df0aabc507f79b771.png",
     "static/media/desktop_signupPage.png": "/goostrack_front/static/media/desktop_signupPage.8ae5d8ef26184e1f82f6.png",
-    "static/media/chart.svg": "/goostrack_front/static/media/chart.b1b5d0aa99878961d54057432c3d889d.svg",
     "static/media/photo-user.svg": "/goostrack_front/static/media/photo-user.568723840020f87f1260c9786287dfac.svg",
     "index.html": "/goostrack_front/index.html",
     "static/media/yellow-star.svg": "/goostrack_front/static/media/yellow-star.0b691603c6597e384bc94275105e33b9.svg",
     "static/media/moon.svg": "/goostrack_front/static/media/moon.1227a78a748b213a5512af1b6b683699.svg",
     "static/media/star.svg": "/goostrack_front/static/media/star.4534103d7a49a933b31385a96e0d4741.svg",
-    "static/media/user.svg": "/goostrack_front/static/media/user.de2f5308ddb1f262d043f0a3ab20196a.svg",
-    "static/media/calendar.svg": "/goostrack_front/static/media/calendar.b9bfa0a6beb171ce76fbcbc1bbee1cad.svg",
+    "static/media/user.svg": "/goostrack_front/static/media/user.07b7409a060bce970bc9ac28389efa28.svg",
+    "static/media/calendar.svg": "/goostrack_front/static/media/calendar.bfbd38f378887a4c3a05cc9ab540f37f.svg",
     "static/media/menu.svg": "/goostrack_front/static/media/menu.18d7380253615bd5bf7d4d9fb1049167.svg",
     "static/media/log-in.svg": "/goostrack_front/static/media/log-in.2932cac4679b0dc8397f44a1c8040c57.svg",
     "static/media/log-out.svg": "/goostrack_front/static/media/log-out.375d073bf2116618159a27f271eabcd3.svg",
+    "static/media/chart-2.svg": "/goostrack_front/static/media/chart-2.690c4e03df1ddd15a344bb01f8a896ec.svg",
     "static/media/userAvatarPlus.svg": "/goostrack_front/static/media/userAvatarPlus.13f498cd8303f7e5c4171c2f7a7aafd8.svg",
     "static/media/r-arrow.svg": "/goostrack_front/static/media/r-arrow.79cd22b746ae6414c11dfe7ca1093602.svg",
     "main.ab155b5b.css.map": "/goostrack_front/static/css/main.ab155b5b.css.map",
-    "main.369f52d6.js.map": "/goostrack_front/static/js/main.369f52d6.js.map"
+    "main.f556d60d.js.map": "/goostrack_front/static/js/main.f556d60d.js.map"
   },
   "entrypoints": [
     "static/css/main.ab155b5b.css",
-    "static/js/main.369f52d6.js"
+    "static/js/main.f556d60d.js"
   ]
 }
