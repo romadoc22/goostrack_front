@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goostrack_front/static/css/main.ab155b5b.css",
-    "main.js": "/goostrack_front/static/js/main.f04193e1.js",
+    "main.js": "/goostrack_front/static/js/main.a6e83d0f.js",
     "static/media/description-image-1.svg": "/goostrack_front/static/media/description-image-1.25ec21049a3bd2a58747a8395054e722.svg",
     "static/media/description-image-3.svg": "/goostrack_front/static/media/description-image-3.1be5edeb0b684a5fe548675669e4bc68.svg",
     "static/media/description-image-2.svg": "/goostrack_front/static/media/description-image-2.d2bc033d2f3ad1b05b80f00def8ff85d.svg",
@@ -24,10 +24,10 @@
     "static/media/userAvatarPlus.svg": "/goostrack_front/static/media/userAvatarPlus.13f498cd8303f7e5c4171c2f7a7aafd8.svg",
     "static/media/r-arrow.svg": "/goostrack_front/static/media/r-arrow.79cd22b746ae6414c11dfe7ca1093602.svg",
     "main.ab155b5b.css.map": "/goostrack_front/static/css/main.ab155b5b.css.map",
-    "main.f04193e1.js.map": "/goostrack_front/static/js/main.f04193e1.js.map"
+    "main.a6e83d0f.js.map": "/goostrack_front/static/js/main.a6e83d0f.js.map"
   },
   "entrypoints": [
     "static/css/main.ab155b5b.css",
-    "static/js/main.f04193e1.js"
+    "static/js/main.a6e83d0f.js"
   ]
 }
